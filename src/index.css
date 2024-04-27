@@ -1,0 +1,14 @@
+@media (max-width: 768px) {
+    .col-md-2.show {
+      position: fixed;
+      left: 0;
+      top: 0;
+      height: 100%;
+      z-index: 1000;
+      background-color: #fff; /* Adjust background color as needed */
+    }
+    
+    .col-md-10 {
+      margin-left: 0 !important;
+    }
+  }
